@@ -1,0 +1,17 @@
+commit d3d79d9d640599769d7bdd10d3a7043187bcbf7d
+Author: mariamhisham559 <mariamhisham559@gmail.com>
+Date:   Tue Aug 25 18:28:04 2026 +0000
+
+    Task 2 : data cleaning
+
+commit 8148368a25d4e28a3ac143332b4f8c3d4caad35d
+Author: mariam <mariamhisham559@gmail.com>
+Date:   Tue Aug 25 11:48:03 2026 +0000
+
+    Task 1: gathered and combined data from the database, catalog, and Reading Kickoff page
+
+commit 5f1d179c7404d0e02c8e371fde3caa7ae3cb0f2a
+Author: mariamhisham559 <mariamhisham559@gmail.com>
+Date:   Tue Aug 25 16:11:24 2026 +0300
+
+    Initial commit
